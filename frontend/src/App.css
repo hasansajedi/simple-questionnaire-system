@@ -1,0 +1,25 @@
+.App-logo {
+  animation: spin infinite 20s linear;
+  height: 80px;
+  float: left;
+}
+
+.App-header {
+  background-color: rgba(255, 255, 255, 0.575);
+  color: #000;
+  text-align: center;
+  height: 90px;
+}
+
+.App-header h2 {
+  line-height: 350%;
+}
+.App-intro {
+  font-size: large;
+}
+
+
+.list-group li:hover{
+  cursor: pointer;
+  background-color: rgba(68, 255, 68, 0.575);
+}
