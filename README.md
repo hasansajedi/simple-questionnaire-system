@@ -1,5 +1,6 @@
 # simple-questionnaire-system
-This project is simple questionnaire system that have two application:
+This project is simple questionnaire system that have two application. 
+In backend read questionnaires list and q&a list from json file and send to frontend.
 
 # Frontend
 
