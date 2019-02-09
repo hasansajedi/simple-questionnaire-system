@@ -4,11 +4,11 @@ In backend read questionnaires list and q&a list from json file and send to fron
 
 ## Frontend
 
-> Using reactjs.
-> npm install -g create-react-app
-> npm install --save axios
-> npm install --save bootstrap
-> npm install --save reactstrap react react-dom
++ Using reactjs.
++ npm install -g create-react-app
++ npm install --save axios
++ npm install --save bootstrap
++ npm install --save reactstrap react react-dom
 
 
 
