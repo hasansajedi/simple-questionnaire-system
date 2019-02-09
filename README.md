@@ -2,17 +2,17 @@
 This project is simple questionnaire system that have two application. 
 In backend read questionnaires list and q&a list from json file and send to frontend.
 
-# Frontend
+## Frontend
 
-Using reactjs.
-npm install -g create-react-app
-npm install --save axios
-npm install --save bootstrap
-npm install --save reactstrap react react-dom
+> Using reactjs.
+> npm install -g create-react-app
+> npm install --save axios
+> npm install --save bootstrap
+> npm install --save reactstrap react react-dom
 
 
 
-# Backend
+## Backend
 
 Application created by djangorestframework.
 Below urls created in app:
