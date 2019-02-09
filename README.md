@@ -15,6 +15,7 @@ In backend read questionnaires list and q&a list from json file and send to fron
 ## Backend
 
 Application created by djangorestframework.
+The version of python is 3.6 .
 Below urls created in app:
 - [x] http://localhost:8000/api/questionnaires/
 - [x] http://localhost:8000/qad/******
